@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["billing and Collection Management System(BCMS)", "Accounting Management System(AMS)", "And More", "Programming Application Development"],
+        strings: ["Android Mobile Reading","Billing and Collection Management System(BCMS)", "Accounting Management System(AMS)", "Human Resource Management System(HRMS)", "Asset and Supply Mnagement System","Online Portal"],
         typeSpeed: 100,
         backSpeed: 50,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Programmer", "Software Developer", "Web Designer", "Freelancer"],
+        strings: ["Android Mobile Reading","Billing and Collection Management System(BCMS)", "Accounting Management System(AMS)", "Human Resource Management System(HRMS)", "Asset and Supply Mnagement System","Online Portal"],
         typeSpeed: 100,
         backSpeed: 50,
         loop: true
