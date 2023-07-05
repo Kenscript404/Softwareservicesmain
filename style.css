@@ -317,21 +317,23 @@ section .title::after{
     top: 0;
     background: #0000FF;
 }
-.skills-content .right .html::before{
-    width: 90%;
+.skills-content .right .MKWD::before{
+    width: 99%;
 }
-.skills-content .right .css::before{
+.skills-content .right .GWD::before{
     width: 60%;
 }
-.skills-content .right .js::before{
+.skills-content .right .NWD::before{
     width: 80%;
 }
-.skills-content .right .php::before{
+.skills-content .right .BWD::before{
     width: 50%;
 }
-.skills-content .right .mysql::before{
+.skills-content .right .MWD::before{
     width: 70%;
 }
+
+
 
 /* teams section styling */
 .teams .title::after{
