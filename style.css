@@ -315,7 +315,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: crimson;
+    background: rgb(62, 4, 211;
 }
 .skills-content .right .html::before{
     width: 90%;
