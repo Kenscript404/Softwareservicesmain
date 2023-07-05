@@ -317,21 +317,22 @@ section .title::after{
     top: 0;
     background: #0000FF;
 }
-.skills-content .right .MKWD::before{
+.skills-content .right .html::before{
     width: 99%;
 }
-.skills-content .right .GWD::before{
+.skills-content .right .css::before{
     width: 99%;
 }
-.skills-content .right .NWD::before{
+.skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .BWD::before{
+.skills-content .right .php::before{
     width: 50%;
 }
-.skills-content .right .MWD::before{
+.skills-content .right .mysql::before{
     width: 70%;
 }
+
 
 
 
