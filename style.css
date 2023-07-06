@@ -433,7 +433,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #333;
+    color: #000000;
 }
 .contact .right form .fields{
     display: flex;
@@ -465,7 +465,7 @@ section .title::after{
 }
 .contact .right form .field input:focus,
 .contact .right form .textarea textarea:focus{
-    border-color: #b3b3b3;
+    border-color:#000000;
 }
 .contact .right form .textarea textarea{
   padding-top: 10px;
@@ -486,7 +486,7 @@ section .title::after{
   border-radius: 6px;
   cursor: pointer;
   flex-wrap: nowrap;
-  background: crimson;
+  background: #000000;
   border: 2px solid #000000;
   transition: all 0.3s ease;
 }
