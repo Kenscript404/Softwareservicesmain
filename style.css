@@ -487,11 +487,11 @@ section .title::after{
   cursor: pointer;
   flex-wrap: nowrap;
   background: crimson;
-  border: 2px solid crimson;
+  border: 2px solid #000000;
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover{
-  color: crimson;
+  color: #000000;
   background: none;
 }
 /* footer section styling */
