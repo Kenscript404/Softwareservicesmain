@@ -235,14 +235,14 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #ffffff;
+    color: #0000FF;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: #0000FF;
+    background: #ffffff;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
