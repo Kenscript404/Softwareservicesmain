@@ -336,12 +336,12 @@ section .title::after{
 
  
 
-/* teams section styling */
+/* Client section styling */
 .teams .title::after{
     content: "Water District";
 }
 .teams .carousel .card{
-    background: #222;
+    background:#00FFFF;
     border-radius: 6px;
     padding: 25px 35px;
     text-align: center;
@@ -375,7 +375,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
-    border-color: #fff;
+    border-color:#0000FF;
 }
 .owl-dots{
     text-align: center;
