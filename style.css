@@ -338,7 +338,7 @@ section .title::after{
 
 /* Client section styling */
 .teams .title::after{
-/*     content: "Water District"; */
+    content: "Water District";
 }
 .teams .carousel .card{
     background:#00FFFF;
