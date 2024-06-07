@@ -19,11 +19,11 @@ html{
     background: #FFFFFF;
 }
 ::-webkit-scrollbar-thumb {
-    background: #888;
+    background: #FFFFFF;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background:#FFFFFF;
 }
 
 /* all similar content styling codes */
