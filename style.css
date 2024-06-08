@@ -1,7 +1,7 @@
 /*  import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -9,7 +9,7 @@
 }
 html{
     scroll-behavior: smooth;
-}
+} */
 
 /* custom scroll bar */
 ::-webkit-scrollbar {
