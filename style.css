@@ -216,7 +216,7 @@ section .title::after{
 /* about section styling */
 /* .about .title::after{
    content: "Profile" */
-/* }
+}
 .about .about-content .left{
     width: 45%;
 }
@@ -256,7 +256,7 @@ section .title::after{
     color: crimson;
     background: none;
 }
- */
+
 
 /* skills section styling */
 
