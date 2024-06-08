@@ -214,8 +214,8 @@ section .title::after{
 }
 
 /* about section styling */
-/* .about .title::after{
-   content: "Profile" */
+.about .title::after{
+   content: "Profile"
 }
 .about .about-content .left{
     width: 45%;
