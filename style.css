@@ -260,8 +260,8 @@ section .title::after{
 
 /* skills section styling */
 
-.skills .title::after{
-    content: "Profile";
+/* .skills .title::after{
+    content: "What I know";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -331,7 +331,7 @@ section .title::after{
 }
 .skills-content .right .mysql::before{
     width: 90%;
-}
+} */
 
 
  
